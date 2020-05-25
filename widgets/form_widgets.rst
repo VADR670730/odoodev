@@ -5,15 +5,15 @@ Grafiska element för användning i formulär och trädvyer
 Grafiska element för ``many2many`` -fält i Odoo
 ====
 
-#. ``many2many`` widget (förvalt)
-#. ``many2many_tags`` widget
-#. ``many2many_checkboxes`` widget
-#. ``many2many_kanban`` widget
-#. ``many2many_counter`` widget
-#. ``many2many_binary`` widget
+#. ``many2many``  (förvalt)
+#. ``many2many_tags`` 
+#. ``many2many_checkboxes`` 
+#. ``many2many_kanban`` 
+#. ``many2many_counter`` 
+#. ``many2many_binary`` 
 
 
-``many2many`` widget (förvalt)
+``many2many``  (förvalt)
 ====
 
 Widgeten ``many2many`` använder en förvald listvy för relaterad modell för att visa en lista av relaterade objekt.
