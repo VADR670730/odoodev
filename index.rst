@@ -62,7 +62,7 @@ Meny
    meny.rst
 
 =========================
-Widgets
+Grafiska element (widgets)
 =========================
 
 .. toctree::
