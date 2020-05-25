@@ -30,7 +30,7 @@ Widgeten ``many2many`` använder en förvald listvy för relaterad modell för a
 
 .. code-block:: python
 
-    <field name="field_name" options="{'no_create': True}"/>
+    <field name="field_name_ids" options="{'no_create': True}"/>
 
 
 Widgeten ``many2many_tags``
