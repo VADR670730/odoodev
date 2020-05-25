@@ -1,8 +1,8 @@
 =======
-Form Widgets
+Grafiska element för användning i formulär och trädvyer
 =======
 
-Formulärwidgets för ``many2many`` -fält i Odoo
+Grafiska element för ``many2many`` -fält i Odoo
 ====
 
 #. ``many2many`` widget (förvalt)
