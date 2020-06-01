@@ -82,3 +82,11 @@ Datakatalog
    :maxdepth: 1
 
    datakatalog.rst
+   
+=========================
+Geany EDI
+=========================
+.. toctree::
+   :maxdepth: 1
+
+   geany/index.rst
